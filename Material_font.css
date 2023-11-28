@@ -1,0 +1,15 @@
+/**
+ * @name Material Font
+ * @version 1
+ * @description Material Font
+ * @author Wilk22
+ *
+ * @website https://github.com/Wilk-22
+ */
+ 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Consolas:wght@100;300;400;500;700&display=swap');
+
+:root {
+  --font-primary: Open Sans;
+  --font-code: Consolas;
